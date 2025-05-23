@@ -36,11 +36,6 @@ Pokedex é um projeto realizado com o objetivo de testar os conhecimentos em Jav
 
 3- Acessar o index.html para visualizar o contéudo
 
-### Ou acesse por aqui
-Você também pode acessar clicando nesse link do Github Pages:
-
-- [Pokedex]()
-
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
